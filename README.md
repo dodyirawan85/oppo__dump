@@ -1,0 +1,14 @@
+# sm6150-user 10 QKQ1.191201.002 eng.root.20210415.004326 release-keys
+- manufacturer: 
+- platform: sm6150
+- codename: 
+- flavor: sm6150-user
+- release: 10
+- id: QKQ1.191201.002
+- incremental: eng.root.20210415.004326
+- tags: release-keys
+- fingerprint: 
+- is_ab: false
+- brand: OPPO
+- branch: sm6150-user-10-QKQ1.191201.002-eng.root.20210415.004326-release-keys
+- repo: oppo__dump
