@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wifisar>
+    <project name="19671">
+        <region name="IN" has_only_gsm="false">
+            <wifi_single_head_sar>32,30,28,26</wifi_single_head_sar>
+            <wifi_single_body_sar>40,38,38,29</wifi_single_body_sar>
+            <wifi_dual_head_sar>26,28,24,22</wifi_dual_head_sar>
+            <wifi_dual_body_sar>40,38,38,29</wifi_dual_body_sar>
+            <gsm_wifi_single_head_sar>26,26,22,20</gsm_wifi_single_head_sar>
+            <gsm_wifi_single_body_sar>40,38,38,29</gsm_wifi_single_body_sar>
+            <gsm_wifi_dual_head_sar>26,26,22,20</gsm_wifi_dual_head_sar>
+            <gsm_wifi_dual_body_sar>40,38,38,29</gsm_wifi_dual_body_sar>
+        </region>
+    </project>
+    <project name="19672">
+        <region name="ALL" has_only_gsm="false">
+            <wifi_single_head_sar>36,38,36,29</wifi_single_head_sar>
+            <wifi_single_body_sar>36,34,36,29</wifi_single_body_sar>
+            <wifi_dual_head_sar>30,34,32,29</wifi_dual_head_sar>
+            <wifi_dual_body_sar>34,34,34,29</wifi_dual_body_sar>
+            <gsm_wifi_single_head_sar>26,28,26,24</gsm_wifi_single_head_sar>
+            <gsm_wifi_single_body_sar>26,28,26,24</gsm_wifi_single_body_sar>
+            <gsm_wifi_dual_head_sar>26,28,26,24</gsm_wifi_dual_head_sar>
+            <gsm_wifi_dual_body_sar>26,28,26,24</gsm_wifi_dual_body_sar>
+        </region>
+    </project>
+    <project name="19670">
+        <region name="IN" has_only_gsm="false">
+            <wifi_single_head_sar>32,30,28,26</wifi_single_head_sar>
+            <wifi_single_body_sar>40,38,38,29</wifi_single_body_sar>
+            <wifi_dual_head_sar>26,28,24,22</wifi_dual_head_sar>
+            <wifi_dual_body_sar>40,38,38,29</wifi_dual_body_sar>
+            <gsm_wifi_single_head_sar>26,26,22,20</gsm_wifi_single_head_sar>
+            <gsm_wifi_single_body_sar>40,38,38,29</gsm_wifi_single_body_sar>
+            <gsm_wifi_dual_head_sar>26,26,22,20</gsm_wifi_dual_head_sar>
+            <gsm_wifi_dual_body_sar>40,38,38,29</gsm_wifi_dual_body_sar>
+        </region>
+    </project>
+    <project name="19654">
+        <region name="IN" has_only_gsm="false">
+            <wifi_single_head_sar>32,30,28,26</wifi_single_head_sar>
+            <wifi_single_body_sar>40,38,38,29</wifi_single_body_sar>
+            <wifi_dual_head_sar>26,28,24,22</wifi_dual_head_sar>
+            <wifi_dual_body_sar>40,38,38,29</wifi_dual_body_sar>
+            <gsm_wifi_single_head_sar>26,26,22,20</gsm_wifi_single_head_sar>
+            <gsm_wifi_single_body_sar>40,38,38,29</gsm_wifi_single_body_sar>
+            <gsm_wifi_dual_head_sar>26,26,22,20</gsm_wifi_dual_head_sar>
+            <gsm_wifi_dual_body_sar>40,38,38,29</gsm_wifi_dual_body_sar>
+        </region>
+    </project>
+</wifisar>
