@@ -1,0 +1,11 @@
+<!-- This file is used by Multimedia Daemon Service (YaJun.li).  DO NOT MODIFY. -->
+<permissions>
+    <feature name="oppo.multimedia.record.conflict" />
+    <feature name="oppo.multimedia.dolby.effect.support" />
+    <feature name="oppo.soundeffect.support" />
+    <feature name="oppo.gamespace.voicechange.support" />
+    <!-- Chenyang.Zhang@RM.MM.AuioServer.Policy, 2020/01/04, Add for playback capture/internal record -->
+    <feature name="oppo.multimedia.internal.record" />
+    <!-- Chenyang.Zhang@RM.MM.AuioServer.Policy, 2020/01/04, Add for DualHeadPhone -->
+    <feature name="realme.multimedia.dualheadphone"/>
+</permissions>
